@@ -1,0 +1,1 @@
+Recently Elliot got a job as a web developer. He got a project to create a website that converts webpage into pdf but he don’t know about the web app security and somehow hackers got access to admin panel content running locally. As a pentester, we need to find the flaw in the app to see admin panel. 
